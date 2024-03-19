@@ -1,5 +1,11 @@
 # CICD
 
+[![Actions Status](https://github.com/andras-gerendas/cicd/workflows/Test,%20build%20and%20release/badge.svg)](https://github.com/andras-gerendas/cicd/actions)
+
+## Latest version
+
+You can find the latest released version [here](https://github.com/andras-gerendas/cicd/releases/tag/latest).
+
 ## Dictionary
 
 | Abbr. | Meaning                |
